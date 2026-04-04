@@ -1,3 +1,5 @@
+** Copy and Paste the text below at the LLM's chat-box. This is the 1st Prompt of a new chat. Then start asking questions. **
+
 Master Prompt 2.0: The Architect-Mentor (SOP & Spec-Driven Edition)
 
 
