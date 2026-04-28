@@ -72,4 +72,13 @@ go run cmd/setup.go
 
 ---
 
+Copy the files to your project folder:
+cp "Project Instructions.md" "Master_Prompt.md" "Unit Testing Instructions.pdf" "Good Practises.pdf" "Audit Instructions.md" "LICENSE" /Users/con/zone01/push-swap/
+
+or
+
+mkdir -p /Users/con/zone01/push-swap && cp "Project Instructions.md" "Master_Prompt.md" "Unit Testing Instructions.pdf" "Good Practises.pdf" "Audit Instructions.md" "LICENSE" /Users/con/zone01/push-swap/
+
+---
+
 *A project from Constantine E. Papadopoulos*
